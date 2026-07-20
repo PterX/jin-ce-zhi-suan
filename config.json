@@ -442,7 +442,7 @@
       "base_url": "https://api.deepseek.com",
       "timeout_seconds": 120,
       "retry_times": 1,
-      "api_key": "sk-067ee948a8734958b3b96099eb433d3f",
+      "api_key": "",
       "fallback_to_mock": false,
       "temperature": 0.2,
       "max_tokens": 1200,

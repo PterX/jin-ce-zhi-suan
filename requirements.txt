@@ -22,3 +22,6 @@ pystray
 Pillow
 pytest
 zhipuai
+sse-starlette
+psutil
+seaborn

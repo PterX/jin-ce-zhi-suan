@@ -210,9 +210,9 @@
     "semantic_hash": "43a126d19a213c88d1fbfd74c06e74a9"
   },
   "src/evolution/adapters/llm_gateway_adapter.py": {
-    "mtime": 1782302369.7946012,
-    "ast_hash": "297946483f92bc80e94cae109dc93d8a",
-    "semantic_hash": "297946483f92bc80e94cae109dc93d8a"
+    "mtime": 1784104197.5233562,
+    "ast_hash": "369feda06c0919299e231154313c24cf",
+    "semantic_hash": ""
   },
   "src/evolution/adapters/llm_ollama_adapter.py": {
     "mtime": 1778312612.018669,
@@ -625,8 +625,8 @@
     "semantic_hash": ""
   },
   "dashboard.html": {
-    "mtime": 1783779027.4906113,
-    "ast_hash": "8996b8369140396f7dc24103e3ab5902",
+    "mtime": 1784104650.4829662,
+    "ast_hash": "c3799e8f91dec08eb93810b48ad55137",
     "semantic_hash": ""
   },
   "debug_headers.txt": {
